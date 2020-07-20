@@ -7,7 +7,7 @@ const Navbar = () => {
         <h5 class="my-0 mr-md-auto font-weight-normal">Янгиликлар</h5>
         <div class="my-2 my-md-0 mr-md-3">
           <Link to="/" className="p-2 text-dark">
-            Ўзбекистон
+          Россия
           </Link>
           <Link to="/jahon" className="p-2 text-dark">
             Жаҳон
